@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # ─────────────────────────────────────────────
-IMAGE_PATH = "contours.png"
+IMAGE_PATH = r"C:\Users\LENOVO\Downloads\image_analysis_codes\contours.png"
 # ─────────────────────────────────────────────
 
 img_bgr = cv2.imread(IMAGE_PATH)

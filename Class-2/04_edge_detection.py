@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # ─────────────────────────────────────────────
-IMAGE_PATH = "demo.jpg"
+IMAGE_PATH = r"C:\Users\LENOVO\Downloads\image_analysis_codes\demo.jpg"
 # ─────────────────────────────────────────────
 
 img_bgr = cv2.imread(IMAGE_PATH)
